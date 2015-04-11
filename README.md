@@ -2,7 +2,7 @@
 Yandex Music Native
 ================
 
-A native chromeless & frameless window wrapper around the Yandex Music.
+A native window wrapper around the Yandex Music.
  
 ![ScreenShot](https://cdn.rawgit.com/miolini/yandexmusicnative/master/render/screenshot.png "Screenshot!")
 
