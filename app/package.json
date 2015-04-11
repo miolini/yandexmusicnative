@@ -1,0 +1,12 @@
+{
+  "name": "Yandex Music Native",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "frame": true,
+    "toolbar": false,
+    "width": 900,
+    "height": 650,
+    "title": "Yandex Music Native"
+  }
+}
