@@ -22,7 +22,8 @@ win.menu = nativeMenuBar;
 window.onload = function() {
   document.getElementById('wv1').addEventListener('newwindow', function(e) {
     var urlObj = url.parse(e.targetUrl, true);
-    nw.Shell.openExternal(e.targetUrl);
+	console.log('try to open url: ' + urlObj);
+    //nw.Shell.openExternal(e.targetUrl);
     return;
   });
 };
