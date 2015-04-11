@@ -1,10 +1,10 @@
-![Yandex Music](logo_github.png "Yandex Music Native!")
+![Yandex Music](https://cdn.rawgit.com/miolini/yandexmusicnative/master/render/logo_github.png "Yandex Music Native!")
 Yandex Music Native
 ================
 
 A native chromeless & frameless window wrapper around the Yandex Music.
  
-![ScreenShot](screenshot.png "Screenshot!")
+![ScreenShot](https://cdn.rawgit.com/miolini/yandexmusicnative/master/render/screenshot.png "Screenshot!")
 
 ## How to Build it
 
